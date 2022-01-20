@@ -1,3 +1,3 @@
 # hello-world
-My first repository
-This is exciting, even though I am not producing anything!
+My first repository. </br>
+This is <b>exciting</b>, even though I am not producing anything!
